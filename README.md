@@ -9,4 +9,4 @@
 
 ## О сервисе MoneyTransferMain
 
-Главный сервис, который распределяет запросы пользоавтеля между вспомгательными сервисами, а именно (MoneyTransferDoTransfer, MoneyTransferGetPerson)
+Главный сервис, который распределяет запросы пользователя между вспомогательными сервисами, а именно (MoneyTransferDoTransfer, MoneyTransferGetPerson)
